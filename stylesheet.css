@@ -1,0 +1,10 @@
+/* Comentários em css*/ 
+
+*{
+    margin: 0;
+    background-color: black;
+}
+h1{
+    color: white;
+    font-size: 60px;
+}
